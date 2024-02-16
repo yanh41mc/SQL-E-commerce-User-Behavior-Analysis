@@ -1,13 +1,22 @@
 **Background**
+
 The e-commerce industry has entered a fiercely competitive stage. After the incremental traffic reaches a certain bottleneck, it is necessary to conduct user behavior analysis to 
 carry out targeted operational activities for users, and provide personalized and differentiated business strategies.
 
+
+
 **Time Range**
+
 November 25th, 2017 - December 3rd, 2017
 
+
+
 **Data Source**
+
 Alibaba (https://tianchi.aliyun.com/dataset/649). The complete dataset is 3.41GB in total. For this project, only 1 million records are extracted as the dataset for this data 
 analysis.
+
+
 
 **Questions**
 1) Explore website traffic: page view, unique visitors, favorites, carts, and purchases
